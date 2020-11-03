@@ -10,6 +10,8 @@ A simple clock demo demonstrating the [LovyanGFX](https://github.com/lovyan03/Lo
 
 ![2 M5Stacks](ntp_clocks.png "NTP clocks")
 
+![M5Stack and ESP32 Wrover kit](ntp_clocks2.png "NTP clocks")
+
 ## How to use
 
 1. Install [LovyanGFX](https://github.com/lovyan03/LovyanGFX) in the Arduino libraries folder.
